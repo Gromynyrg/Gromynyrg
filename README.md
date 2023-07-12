@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gromynyrg&show_icons=true&title_color=7d298e&text_color=575cf4&locale=en" alt="gromynyrg" /></p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Gromynyrg&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gromynyrg?theme=nord&font=Electrolize)
