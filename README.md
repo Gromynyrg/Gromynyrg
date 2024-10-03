@@ -1,5 +1,16 @@
 <h1 align="center">Hi everyone👋, I'm Michael|Gromynyrg</h1>
-<h3 align="center">Junior developer from Almaty, studying in Moscow</h3>
+<h3 align="center">Fullstack developer from Almaty, studying and working in Moscow</h3>
+<h3>A little bit about me:</h3>
+<ul>
+  <li>Graduated with a bachelor's degree in information systems and technologies at Sergo Ordzhonikidze Russian State University for Geological Prospecting <a href="https://mgri.ru" target="blank"><img align="center" src="https://mgri.ru/upload/medialibrary/041/04151ea262e43328f3ccebaa07b13812.png" alt="MGRI logo" height="30" width="30" /></a>
+  </li>
+  <li>Student of programming School 21 by Sber <a href="https://21-school.ru/" target="blank"><img align="center" src="https://filearchive.cnews.ru/img/book/2023/04/28/shkola_21_logo.png" alt="School21 logo" height="30" width="30" /></a>
+  </li>
+  <li>Master's degree student of Moscow Institute of Physics and Technology (MIPT) in the direction of IT product development <a href="https://mipt.ru/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/ru/2/27/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%9C%D0%A4%D0%A2%D0%98.png?20180927154454" alt="MIPT logo" height="40" width="50" /></a>
+  </li>
+  <li>Work experience: 2 years in development of microservices and automated system in LEOGrand company engaged in engineering-environmental surveys <a href="https://leograndrus.ru/" target="blank"><img align="center" src="static/LEOGRAND.png" alt="LEOGrand logo" height="30" width="40" /> </a>
+  </li>
+</ul>
 
 - 📫 How to reach me **kykabazyca@gmail.com**
 
